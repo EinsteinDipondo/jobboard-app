@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![KenyaJobs Logo](https://heartfelt-frangollo-6c6478.netlify.app/kenyajobs-og.png)
+(https://heartfelt-frangollo-6c6478.netlify.app)
 
 **A modern, responsive job board application for Kenya built with React**
 
