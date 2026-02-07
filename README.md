@@ -2,11 +2,8 @@
 
 <div align="center">
 
-(https://heartfelt-frangollo-6c6478.netlify.app)
-
 **A modern, responsive job board application for Kenya built with React**
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge/deploy-status)](https://heartfelt-frangollo-6c6478.netlify.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with React](https://img.shields.io/badge/Made%20with-React-blue?logo=react)](https://reactjs.org)
 
